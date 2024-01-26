@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shikder-Tarek-15
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Blockchain Development
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
