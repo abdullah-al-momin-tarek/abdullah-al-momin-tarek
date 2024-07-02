@@ -1,4 +1,6 @@
+<a href="https://www.linkedin.com/in/abdullah-al-momin-tarek">
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/banner.png" />
+  <a/>
 
 
 ## :bar_chart: My Stats
