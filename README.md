@@ -1,4 +1,4 @@
-<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/gitBanner.svg" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/banner.png" />
 
 
 ## :bar_chart: My Stats
