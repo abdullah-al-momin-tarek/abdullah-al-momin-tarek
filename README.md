@@ -25,19 +25,15 @@
 <div>
   Hi, I'm Abdullah Al Momin Tarek, a passionate front-end developer from Bangladesh. Here's a bit about me:
   <br><br>
-🧑‍🎓 Education
-I'm currently pursuing a degree in Computer Science and Engineering at Daffodil International University.
+🧑‍🎓 I'm currently pursuing a degree in Computer Science and Engineering at Daffodil International University.
 <br><br>
 
-👨‍💼 Availability
-I'm currently open to new opportunities and looking for exciting projects or roles.
+👨‍💼 I'm currently open to new opportunities and looking for exciting projects or roles.
 <br><br>
 
-🧠 Learning
-Right now, I'm diving into Next.js to enhance my development skills.
+🧠 Right now, I'm diving into Next.js to enhance my development skills.
 <br><br>
 
-🌟 Interests
-I love exploring new technologies and continuously expanding my knowledge base.
+🌟 I love exploring new technologies and continuously expanding my knowledge base.
 
 </div>
