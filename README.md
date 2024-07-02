@@ -6,4 +6,16 @@
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons//css.png" />
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/JavaScript.png" />
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/python.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/c.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/cpp.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons//react.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/tailwind.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/mongodb.png" />
+</p>
+<p align="center">
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/express.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons//node.png" />
+<img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/firebase.png" />
 </p>
