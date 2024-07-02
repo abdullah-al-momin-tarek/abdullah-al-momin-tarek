@@ -1,8 +1,6 @@
 ## :bar_chart: My Stats
 <p align="center"><img src="https://streak-stats.demolab.com?user=Shikder-Tarek-15&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shikder_tarek&layout=compact" /> </p>
-
 ## :hammer_and_wrench: Technologies & Tools
 <p align="center">
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/HTML.png" />
@@ -22,3 +20,24 @@
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons//node.png" />
 <img src="https://github.com/Shikder-Tarek-15/Shikder-Tarek-15/blob/main/icons/mongo.png" />
 </p>
+
+## 👨‍💻 About Me
+<div>
+  Hi, I'm Abdullah Al Momin Tarek, a passionate front-end developer from Bangladesh. Here's a bit about me:
+  <br><br>
+🧑‍🎓 Education
+I'm currently pursuing a degree in Computer Science and Engineering at Daffodil International University.
+<br><br>
+
+👨‍💼 Availability
+I'm currently open to new opportunities and looking for exciting projects or roles.
+<br><br>
+
+🧠 Learning
+Right now, I'm diving into Next.js to enhance my development skills.
+<br><br>
+
+🌟 Interests
+I love exploring new technologies and continuously expanding my knowledge base.
+
+</div>
