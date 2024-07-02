@@ -27,13 +27,10 @@
   <br><br>
 🧑‍🎓 I'm currently pursuing a degree in Computer Science and Engineering at Daffodil International University.
 <br><br>
-
 👨‍💼 I'm currently open to new opportunities and looking for exciting projects or roles.
 <br><br>
-
 🧠 Right now, I'm diving into Next.js to enhance my development skills.
 <br><br>
-
 🌟 I love exploring new technologies and continuously expanding my knowledge base.
 
 </div>
