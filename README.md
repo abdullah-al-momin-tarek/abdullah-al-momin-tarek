@@ -19,7 +19,7 @@
 <img src="https://github.com/abdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons/cpp.png" />
 <img src="https://github.com/abdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons//react.png" />
 <img src="https://github.com/abdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons/tailwind.png" />
-<img src="https://github.comabdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons/firebase.png" />
+<img src="https://github.com/abdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons/firebase.png" />
 </p>
 <p align="center">
 <img src="https://github.com/abdullah-al-momin-tarek/abdullah-al-momin-tarek/blob/main/icons/express.png" />
